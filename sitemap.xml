@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace https://YOUR-DOMAIN.example with your actual deployed custom domain before submitting to search engines. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://YOUR-DOMAIN.example/</loc></url>
+<url><loc>https://YOUR-DOMAIN.example/pages/videos.html</loc></url>
+<url><loc>https://YOUR-DOMAIN.example/pages/wealth.html</loc></url>
+<url><loc>https://YOUR-DOMAIN.example/pages/psychology.html</loc></url>
+<url><loc>https://YOUR-DOMAIN.example/pages/business.html</loc></url>
+<url><loc>https://YOUR-DOMAIN.example/pages/articles.html</loc></url>
+<url><loc>https://YOUR-DOMAIN.example/pages/books.html</loc></url>
+<url><loc>https://YOUR-DOMAIN.example/pages/about.html</loc></url>
+<url><loc>https://YOUR-DOMAIN.example/pages/contact.html</loc></url>
+<url><loc>https://YOUR-DOMAIN.example/pages/privacy.html</loc></url>
+<url><loc>https://YOUR-DOMAIN.example/pages/terms.html</loc></url>
+<url><loc>https://YOUR-DOMAIN.example/pages/disclaimer.html</loc></url>
+<url><loc>https://YOUR-DOMAIN.example/articles/money-audit.html</loc></url>
+<url><loc>https://YOUR-DOMAIN.example/articles/quiet-wealth.html</loc></url>
+<url><loc>https://YOUR-DOMAIN.example/articles/business-follow-up.html</loc></url>
+</urlset>
